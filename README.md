@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0035-search-insert-position) |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
