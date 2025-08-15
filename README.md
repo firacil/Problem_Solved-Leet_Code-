@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,9 +55,14 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
