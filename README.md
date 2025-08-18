@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
