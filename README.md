@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1628-count-submatrices-with-all-ones](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1628-count-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +77,20 @@
 | [0197-rising-temperature](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1179-game-play-analysis-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1628-count-submatrices-with-all-ones) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1628-count-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/firacil/Problem_Solved-Leet_Code-/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
